@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Institutie
+comment1.params=
+comment1.target=Institutie()
+comment10.params=
+comment10.target=void\ run()
+comment2.params=
+comment2.target=Institutie\ getInstance()
+comment3.params=lastId
+comment3.target=void\ setLastId(int)
+comment4.params=
+comment4.target=int\ getLastId()
+comment5.params=
+comment5.target=void\ incrementLastId()
+comment6.params=
+comment6.target=void\ afisareCursuri()
+comment7.params=
+comment7.target=void\ afisareCursuriProgramare()
+comment8.params=id
+comment8.target=boolean\ stergeId(int)
+comment9.params=tip\ denumire\ pret
+comment9.target=void\ adaugaCurs(java.lang.String,\ java.lang.String,\ double)
+numComments=11
